@@ -1,6 +1,7 @@
 {
-  "name": "my-v0-project",
+  "name": "siempre-nuevo-streetwear",
   "version": "0.1.0",
+  "description": "Bold urban streetwear e-commerce platform for fearless women. FFJ URBANM celebrates New Mexico culture through authentic fashion.",
   "private": true,
   "scripts": {
     "build": "next build",
