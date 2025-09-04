@@ -5,9 +5,10 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Siempre Nuevo - FFJ URBANM | Bold Urban Streetwear',
+  description: 'Fearless fashion for New Mexico women. Shop authentic urban streetwear that celebrates culture, community, and individual expression.',
+  generator: 'Next.js',
+  keywords: ['streetwear', 'urban fashion', 'New Mexico', 'women clothing', 'FFJ URBANM', 'latino fashion'],
 }
 
 export default function RootLayout({
