@@ -54,12 +54,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DigitalHerencia/SiempreNuevo/refs/heads/main/public/Screenshot_4-9-2025_172152_siemprenuevo.vercel.app.jpeg" alt="SiempreNuevo Screenshot" width="100%" style="border-radius:12px;margin:1rem 0;">
-</p>
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
